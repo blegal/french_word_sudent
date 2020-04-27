@@ -1,4 +1,3 @@
-(II) Chargement des mots du dictionnaire...
 a
 a
 abaissa
