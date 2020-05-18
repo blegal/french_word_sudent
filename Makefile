@@ -1,6 +1,6 @@
 CC=gcc
 
-CFLAGS=-Ofast -march=native -mtune=native -std=c11
+CFLAGS=-Ofast -march=native -mtune=native -std=c11 -Wall
 
 LDFLAGS=
 
